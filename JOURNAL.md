@@ -35,3 +35,15 @@ I decided on using:
 
 
 **Total time spent: 4h**
+
+
+
+
+# May 24th: Finished Placing Components onto the Schematic and started wiring!
+
+Today I almost finalised the components that I am going to use and imported and downloaded all the footprints into the schematic.  
+I started a rough wiring diagram of  how to connect the components togtether and finished the power charging circuit.
+I still need to work on getting the switches and other small components wired up and it was quite challening to find different symbols and footprints for each of the components as they didnt have it available online.
+![image](https://github.com/user-attachments/assets/2682cd43-e33b-4f3a-8980-5f28084912ab)
+
+**Total time spent: 3h**
