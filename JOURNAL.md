@@ -47,3 +47,11 @@ I still need to work on getting the switches and other small components wired up
 ![image](https://github.com/user-attachments/assets/2682cd43-e33b-4f3a-8980-5f28084912ab)
 
 **Total time spent: 3h**
+
+
+# May 26th: Finished wiring up the switches and power circuit
+
+Today I finsished configuring the GPIO extenders and finished wiring up the switches to the Xiao ESP32-S3
+I decided to use a matrix layout and 6x6
+
+<img alt="image" src="https://github.com/user-attachments/assets/d60dc6f6-f78f-4e10-acaf-e83a9f994be1" />
