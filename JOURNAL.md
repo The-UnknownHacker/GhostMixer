@@ -62,3 +62,10 @@ I decided to use a matrix layout and 6x6
 Today I finally finished wiring up the audio DAC to handle audio output to the headphone jack. This is one of the most challening things in the project as configuring each pin and wiring it to the correct circuit was very very tough. I started wiring the microsd card to the Xiao using SPI
 
 ![image](https://github.com/user-attachments/assets/4a86f23d-18b5-43f7-b395-b38d92c1aad7)
+
+# June 3rd : Finished wiring up all the GPIO pins on the Xiao as well as wiring the SD card to the xiao
+
+Today I finsished v1 of the entire schematic by wiring up the SD card and the rest of the gpio pins
+
+<img width="1210" alt="image" src="https://github.com/user-attachments/assets/957a5e8f-2fe2-4e7b-a526-10d868f1ab77" />
+
